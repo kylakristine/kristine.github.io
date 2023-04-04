@@ -1,0 +1,107 @@
+/*kristine*/
+.bg{
+    background-color: #a39e6e;
+}
+.base1{
+ position: absolute;
+ width: 100%;
+ max-width: 900px;
+ background: white; 
+ margin: 50px;
+ display: flex;
+ box-shadow: 0 35px 55px rgba(176, 25, 25, 0.1);
+}
+.left_side{
+    position: relative;
+    background: #928e50;
+    padding: 40px;
+    
+}
+.profileText1 { 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+.profileText1 .imgBx{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.profileText1 .imgBx img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.profileText1 h2{
+    color: #ffffff;
+    font-size: 1.5em;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+.profileText1 h2 span{
+    font-size: 0.8em;
+    font-style: 300;
+}
+.contactInfo1{
+    padding-top: 40px;
+}
+.title1{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+.contactInfo1 ul{
+    position: relative;
+}
+.contactInfo1 ul li{
+    position: relative;
+    list-style: none;
+    margin: 10px;
+    cursor: pointer;
+}
+.contactInfo1 ul li .icon{
+    display: inline-block;
+    width: 30px;
+    font-size: 18px;
+    color: #800b0d;
+}
+.contactInfo1 ul li span{
+    color: #fff;
+    font-weight: 300;
+}
+.Education1 li{
+    margin-bottom: 15px;
+    text-decoration: none;
+}
+.Education1 h5{
+    color: rgb(83, 2, 6);
+    font-weight: 500;
+}
+.Education1 h4{
+    color: rgb(252, 248, 248);
+    font-weight: 500;
+}
+.Education1 h4:nth-child(2){
+    color: #fff;
+    font-weight: 300;
+}
+
+.right_side1{
+    position: relative;
+    background: #e7eece;
+    padding: 40px;
+    
+}

@@ -1,0 +1,58 @@
+body{
+    background-color: whitesmoke;
+
+    
+}
+.intro{
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    align-content: center;
+}
+.socmed img {
+    display: justify;
+    margin: 20px;
+    float: center;
+
+    
+    
+   
+}
+.socmeda img {
+    display: justify;
+    margin: 20px;
+    float: center;
+
+   
+}
+.h4{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding: 20px 0;
+ align-items: center;  
+  justify-content: space-between;
+ }
+  .nav{
+     display: flex;
+     width: 80%;
+     margin: auto;
+     padding: 20px 0;
+     align-items: center;  
+   justify-content: space-between;
+ }
+ .nav ul li{
+         display: inline-block;
+         list-style: none;
+         padding: 10px 16px;
+         position:relative;
+ }
+ .nav ul li a{
+     text-decoration: none;
+     color: rgb(0, 0, 0);
+     font-weight: bold;
+ }
