@@ -1,0 +1,31 @@
+/*Activities*/
+body{
+    background-color: whitesmoke;
+}
+.act_nav{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;  
+  justify-content: space-between;
+}
+.act_nav ul li{
+        display: inline-block;
+        list-style: none;
+        padding: 10px 16px;
+        position:relative;
+}
+.act_nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.pics img{
+    width: 250px;
+    height: 250px;
+}
+.photo img{
+    width: 500px;
+    height: 300px;
+}

@@ -1,0 +1,51 @@
+/* ABOUT US*/
+.back_color{
+    background-color:black ;
+}
+.about{
+    color: white;
+    text-align: center;
+    padding: 5%;
+}
+.about_box{
+    width: 150px;
+  border: 5px solid rgb(33, 5, 110);
+  padding: 10px;
+  margin: 20px;
+}
+.about_box h1{
+    color: white;
+}
+.name{
+    text-align: center ;
+}
+.hername{
+    text-align: center;
+}
+.nav{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding: 20px 0;
+ align-items: center;  
+  justify-content: space-between;
+ }
+  .nav{
+     display: flex;
+     width: 80%;
+     margin: auto;
+     padding: 20px 0;
+     align-items: center;  
+   justify-content: space-between;
+ }
+ .nav ul li{
+         display: inline-block;
+         list-style: none;
+         padding: 10px 16px;
+         position:relative;
+ }
+ .nav ul li a{
+     text-decoration: none;
+     color: white;
+     font-weight: bold;
+ }
