@@ -1,12 +1,16 @@
-body{
-    background-color: whitesmoke;
+.bg_image {
+    background-image: url(..//img/backg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+   
 
     
 }
 .intro{
     font-size: 60px;
     font-family: 'Courier New', Courier, monospace;
-    align-content: center;
+    
 }
 .socmed img {
     display: justify;

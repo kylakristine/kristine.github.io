@@ -1,9 +1,12 @@
 /* ABOUT US*/
 .back_color{
-    background-color:black ;
+  background-image: url(../img/backg1.jpg);
+  background-repeat: no-repeat;
+  Background-size:cover;
 }
+
 .about{
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 5%;
 }
@@ -18,9 +21,11 @@
 }
 .name{
     text-align: center ;
+    color: black;
 }
 .hername{
     text-align: center;
+    color: black;
 }
 .nav{
     display: flex;
@@ -46,6 +51,6 @@
  }
  .nav ul li a{
      text-decoration: none;
-     color: white;
+     color: rgb(0, 0, 0);
      font-weight: bold;
  }
